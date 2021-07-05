@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Juan Reis. Web development student. I intend to follow the backend. I'm currently learning the Laravel Framework.
+What’s up, I’m Juan. I’m a Web development student living in São Paulo, Brasil. I am a fan of programming, technology, and music. I’m also interested in food. I intend to follow the backend. I'm currently learning the Laravel Framework.
 
 <img align='right' src='https://i.imgur.com/b4fl4D3.jpg' width='200"'>
 
