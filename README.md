@@ -25,6 +25,7 @@ What’s up, I’m Juan. I’m a Web development student living in São Paulo, B
 
 ## Any projects:
 - Website: ['Violência na mídia'](https://github.com/eljuanreis/site-violencia_na_midia)
+- Website: ['Contact form with Laravel'](https://github.com/eljuanreis/dev-contato)
 
 ## Social media
 [![Twitter Follow](https://img.shields.io/twitter/follow/eljuanreis?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/eljuanreis)
