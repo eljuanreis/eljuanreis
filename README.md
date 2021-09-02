@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-What’s up, I’m Juan. I’m a Web development student living in São Paulo, Brasil. I am a fan of programming, technology, and music. I’m also interested in food. I intend to follow the backend. I'm currently learning the Laravel Framework.
+What’s up, I’m Juan. I’m a Web development student living in São Paulo, Brasil. I am a fan of programming, technology, and music. I’m also interested in food. I intend to follow the backend.
 
 <img align='right' src='https://i.imgur.com/b4fl4D3.jpg' width='200"'>
 
@@ -16,12 +16,12 @@ What’s up, I’m Juan. I’m a Web development student living in São Paulo, B
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Current learning
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljuanreis&layout=compact&langs_count=7&theme=dark"/>
 
 ## Any projects:
 - Website: ['Violência na mídia'](https://github.com/eljuanreis/site-violencia_na_midia)
@@ -30,6 +30,7 @@ What’s up, I’m Juan. I’m a Web development student living in São Paulo, B
 ## Social media
 [![Twitter Follow](https://img.shields.io/twitter/follow/eljuanreis?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/eljuanreis)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanreis/)
+
 <!--
 **eljuanreis/eljuanreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
