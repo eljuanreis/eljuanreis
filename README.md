@@ -1,24 +1,24 @@
 ## Hi there 👋
 
-What’s up, I’m Juan. I’m a Web development student living in São Paulo, Brasil. I am a fan of programming, technology, and music. I’m also interested in food. I intend to follow the backend.
-
-<img align='right' src='https://i.imgur.com/b4fl4D3.jpg' width='200"'>
-
+What’s up, I’m Juan. I’m a developer living in São Paulo, Brasil. I am a fan of programming, technology, and music.
 
 ### Technologies & Tools:
 
+#### • Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+#### • Back-end
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### • CMS
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### Database
+#### • Database
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -26,12 +26,11 @@ What’s up, I’m Juan. I’m a Web development student living in São Paulo, B
 <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljuanreis&layout=compact&langs_count=7&theme=dark"/>
 
 ## Any projects:
-- Website: ['Violência na mídia'](https://github.com/eljuanreis/site-violencia_na_midia)
-- Website: ['Contact form with Laravel'](https://github.com/eljuanreis/dev-contato)
-- Website: ['JobFinder with NodeJS Express'](https://github.com/eljuanreis/express-jobfinder)
+- Website (*PHP*): ['Laravel 8 System With Bootstrap 5 and Jquery'](https://github.com/eljuanreis/J-simple-intranet)
+- Website (*PHP*): ['Contact form with Laravel'](https://github.com/eljuanreis/dev-contato)
+- Desktop APP (Java With Swing Library): ['JobFinder with NodeJS Express'](https://github.com/eljuanreis/express-jobfinder)
 
 ## Social media/Contact
-[![Twitter Follow](https://img.shields.io/twitter/follow/eljuanreis?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/eljuanreis)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanreis/)
 
 <!--
