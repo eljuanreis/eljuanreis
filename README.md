@@ -23,12 +23,12 @@ What’s up, I’m Juan. I’m a developer living in São Paulo, Brasil. I am a 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljuanreis&layout=compact&langs_count=7&theme=dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljuanreis&layout=compact&langs_count=7&theme=dark&hide=blade,html,handlebars,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Any projects:
 - Website (*PHP*): ['Laravel 8 System With Bootstrap 5 and Jquery'](https://github.com/eljuanreis/J-simple-intranet)
 - Website (*PHP*): ['Contact form with Laravel'](https://github.com/eljuanreis/dev-contato)
-- Desktop APP (Java With Swing Library): ['JobFinder with NodeJS Express'](https://github.com/eljuanreis/express-jobfinder)
+- Desktop APP (Java With Swing Library): ['Jomini - TCC Manager'](https://github.com/eljuanreis/jomini-tcc-manager)
 
 ## Social media/Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanreis/)
